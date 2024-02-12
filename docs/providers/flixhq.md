@@ -42,8 +42,8 @@ output:
     {
       id: 'tv/watch-vincenzo-67955', // media id
       title: 'Vincenzo',
-      url: 'https://flixhq.to/tv/watch-vincenzo-67955', // media url
-      image: 'https://img.flixhq.to/xxrz/250x400/379/79/6b/796b32989cf1308b9e0619524af5b022/796b32989cf1308b9e0619524af5b022.jpg',
+      url: 'https://flixhq.click/tv/watch-vincenzo-67955', // media url
+      image: 'https://img.flixhq.click/xxrz/250x400/379/79/6b/796b32989cf1308b9e0619524af5b022/796b32989cf1308b9e0619524af5b022.jpg',
       type: 'TV Series'
     }
     {...},
@@ -72,8 +72,8 @@ output:
 {
   id: 'tv/watch-vincenzo-67955', // media id
   title: 'Vincenzo',
-  url: 'https://flixhq.to/tv/watch-vincenzo-67955', // media url
-  image: 'https://img.flixhq.to/xxrz/250x400/379/79/6b/796b32989cf1308b9e0619524af5b022/796b32989cf1308b9e0619524af5b022.jpg',
+  url: 'https://flixhq.click/tv/watch-vincenzo-67955', // media url
+  image: 'https://img.flixhq.click/xxrz/250x400/379/79/6b/796b32989cf1308b9e0619524af5b022/796b32989cf1308b9e0619524af5b022.jpg',
   description: '\n' +
     '        At age of 8, Park Joo-Hyung went to Italy after he was adopted. He is now an adult and has the name of Vincenzo Cassano. ...\n' +
     '    ',
@@ -99,7 +99,7 @@ output:
       title: 'Eps 1: Episode #1.1',
       number: 1,
       season: 1, // the number of episodes resets to 1 every season
-      url: 'https://flixhq.to/ajax/v2/episode/servers/1167571'
+      url: 'https://flixhq.click/ajax/v2/episode/servers/1167571'
     },
     {...},
     ...
@@ -169,19 +169,19 @@ output:
 [
   {
     name: 'upcloud',
-    url: 'https://flixhq.to/watch-tv/watch-vincenzo-67955.4829542'
+    url: 'https://flixhq.click/watch-tv/watch-vincenzo-67955.4829542'
   },
   {
     name: 'vidcloud',
-    url: 'https://flixhq.to/watch-tv/watch-vincenzo-67955.4087001'
+    url: 'https://flixhq.click/watch-tv/watch-vincenzo-67955.4087001'
   },
   {
     name: 'streamlare',
-    url: 'https://flixhq.to/watch-tv/watch-vincenzo-67955.7041439'
+    url: 'https://flixhq.click/watch-tv/watch-vincenzo-67955.7041439'
   },
   {
     name: 'voe',
-    url: 'https://flixhq.to/watch-tv/watch-vincenzo-67955.7823107'
+    url: 'https://flixhq.click/watch-tv/watch-vincenzo-67955.7823107'
   },
   {...},
    ...
@@ -205,8 +205,8 @@ output:
   {
     id: 'movie/watch-violent-night-91333',
     title: 'Violent Night',
-    url: 'https://flixhq.to/movie/watch-violent-night-91333',
-    image: 'https://img.flixhq.to/xxrz/250x400/379/cc/ff/ccff5242232b96b36ed22f0a0dda8234/ccff5242232b96b36ed22f0a0dda8234.jpg',
+    url: 'https://flixhq.click/movie/watch-violent-night-91333',
+    image: 'https://img.flixhq.click/xxrz/250x400/379/cc/ff/ccff5242232b96b36ed22f0a0dda8234/ccff5242232b96b36ed22f0a0dda8234.jpg',
     releaseDate: '2022',
     duration: '112m',
     type: 'Movie'
@@ -214,8 +214,8 @@ output:
   {
     id: 'movie/watch-holiday-heritage-91552',
     title: 'Holiday Heritage',
-    url: 'https://flixhq.to/movie/watch-holiday-heritage-91552',
-    image: 'https://img.flixhq.to/xxrz/250x400/379/b9/4c/b94c9ef8b80fe5d71e9e4750602d086c/b94c9ef8b80fe5d71e9e4750602d086c.jpg',
+    url: 'https://flixhq.click/movie/watch-holiday-heritage-91552',
+    image: 'https://img.flixhq.click/xxrz/250x400/379/b9/4c/b94c9ef8b80fe5d71e9e4750602d086c/b94c9ef8b80fe5d71e9e4750602d086c.jpg',
     releaseDate: '2022',
     duration: '84m',
     type: 'Movie'
@@ -223,8 +223,8 @@ output:
   {
     id: 'movie/watch-high-heat-91549',
     title: 'High Heat',
-    url: 'https://flixhq.to/movie/watch-high-heat-91549',
-    image: 'https://img.flixhq.to/xxrz/250x400/379/4e/56/4e56d050f6d2578f1495dbf348e0becf/4e56d050f6d2578f1495dbf348e0becf.jpg',
+    url: 'https://flixhq.click/movie/watch-high-heat-91549',
+    image: 'https://img.flixhq.click/xxrz/250x400/379/4e/56/4e56d050f6d2578f1495dbf348e0becf/4e56d050f6d2578f1495dbf348e0becf.jpg',
     releaseDate: '2022',
     duration: '84m',
     type: 'Movie'
@@ -249,8 +249,8 @@ output:
  {
     id: 'tv/watch-yellowstone-38684',
     title: 'Yellowstone',
-    url: 'https://flixhq.to/tv/watch-yellowstone-38684',
-    image: 'https://img.flixhq.to/xxrz/250x400/379/86/ba/86bacd45c63959587ef16c92927fe8eb/86bacd45c63959587ef16c92927fe8eb.jpg',
+    url: 'https://flixhq.click/tv/watch-yellowstone-38684',
+    image: 'https://img.flixhq.click/xxrz/250x400/379/86/ba/86bacd45c63959587ef16c92927fe8eb/86bacd45c63959587ef16c92927fe8eb.jpg',
     season: 'SS 5',
     latestEpisode: 'EPS 7',
     type: 'TV Series'
@@ -258,8 +258,8 @@ output:
   {
     id: 'tv/watch-his-dark-materials-34639',
     title: 'His Dark Materials',
-    url: 'https://flixhq.to/tv/watch-his-dark-materials-34639',
-    image: 'https://img.flixhq.to/xxrz/250x400/379/0e/41/0e41301e8f1152499dcf51253b64a29f/0e41301e8f1152499dcf51253b64a29f.jpg',
+    url: 'https://flixhq.click/tv/watch-his-dark-materials-34639',
+    image: 'https://img.flixhq.click/xxrz/250x400/379/0e/41/0e41301e8f1152499dcf51253b64a29f/0e41301e8f1152499dcf51253b64a29f.jpg',
     season: 'SS 3',
     latestEpisode: 'EPS 8',
     type: 'TV Series'
@@ -267,8 +267,8 @@ output:
   {
     id: 'tv/watch-dangerous-liaisons-89965',
     title: 'Dangerous Liaisons',
-    url: 'https://flixhq.to/tv/watch-dangerous-liaisons-89965',
-    image: 'https://img.flixhq.to/xxrz/250x400/379/fc/5b/fc5ba1c5d4445eb29d0b002f2c8425db/fc5ba1c5d4445eb29d0b002f2c8425db.jpg',
+    url: 'https://flixhq.click/tv/watch-dangerous-liaisons-89965',
+    image: 'https://img.flixhq.click/xxrz/250x400/379/fc/5b/fc5ba1c5d4445eb29d0b002f2c8425db/fc5ba1c5d4445eb29d0b002f2c8425db.jpg',
     season: 'SS 1',
     latestEpisode: 'EPS 7',
     type: 'TV Series'
@@ -293,8 +293,8 @@ output:
  {
     id: 'movie/watch-avatar-the-way-of-water-79936',
     title: 'Avatar: The Way of Water',
-    url: 'https://flixhq.to/movie/watch-avatar-the-way-of-water-79936',
-    image: 'https://img.flixhq.to/xxrz/250x400/379/1e/c6/1ec694a9d587d509ec7a9be815aacfac/1ec694a9d587d509ec7a9be815aacfac.jpg',
+    url: 'https://flixhq.click/movie/watch-avatar-the-way-of-water-79936',
+    image: 'https://img.flixhq.click/xxrz/250x400/379/1e/c6/1ec694a9d587d509ec7a9be815aacfac/1ec694a9d587d509ec7a9be815aacfac.jpg',
     releaseDate: '2022',
     duration: '192m',
     type: 'Movie'
@@ -302,8 +302,8 @@ output:
   {
     id: 'movie/watch-the-banshees-of-inisherin-91351',
     title: 'The Banshees of Inisherin',
-    url: 'https://flixhq.to/movie/watch-the-banshees-of-inisherin-91351',
-    image: 'https://img.flixhq.to/xxrz/250x400/379/6e/d2/6ed2e9486552bf0bda5dd3be8db0baec/6ed2e9486552bf0bda5dd3be8db0baec.jpg',
+    url: 'https://flixhq.click/movie/watch-the-banshees-of-inisherin-91351',
+    image: 'https://img.flixhq.click/xxrz/250x400/379/6e/d2/6ed2e9486552bf0bda5dd3be8db0baec/6ed2e9486552bf0bda5dd3be8db0baec.jpg',
     releaseDate: '2022',
     duration: '114m',
     type: 'Movie'
@@ -311,8 +311,8 @@ output:
   {
     id: 'movie/watch-avatar-19690',
     title: 'Avatar',
-    url: 'https://flixhq.to/movie/watch-avatar-19690',
-    image: 'https://img.flixhq.to/xxrz/250x400/379/9d/0f/9d0fe6f16f205e483df14817753c1b0d/9d0fe6f16f205e483df14817753c1b0d.jpg',
+    url: 'https://flixhq.click/movie/watch-avatar-19690',
+    image: 'https://img.flixhq.click/xxrz/250x400/379/9d/0f/9d0fe6f16f205e483df14817753c1b0d/9d0fe6f16f205e483df14817753c1b0d.jpg',
     releaseDate: '2009',
     duration: '162m',
     type: 'Movie'
@@ -337,8 +337,8 @@ output:
 {
     id: 'tv/watch-1923-91522',
     title: '1923',
-    url: 'https://flixhq.to/tv/watch-1923-91522',
-    image: 'https://img.flixhq.to/xxrz/250x400/379/96/f3/96f3c8dfd9583a855473e2e9039c8bda/96f3c8dfd9583a855473e2e9039c8bda.jpg',
+    url: 'https://flixhq.click/tv/watch-1923-91522',
+    image: 'https://img.flixhq.click/xxrz/250x400/379/96/f3/96f3c8dfd9583a855473e2e9039c8bda/96f3c8dfd9583a855473e2e9039c8bda.jpg',
     season: 'SS 1',
     latestEpisode: 'EPS 1',
     type: 'TV Series'
@@ -346,8 +346,8 @@ output:
   {
     id: 'tv/watch-the-recruit-91507',
     title: 'The Recruit',
-    url: 'https://flixhq.to/tv/watch-the-recruit-91507',
-    image: 'https://img.flixhq.to/xxrz/250x400/379/0e/bd/0ebd5fe83f5a5f7055089d3390727e1c/0ebd5fe83f5a5f7055089d3390727e1c.jpg',
+    url: 'https://flixhq.click/tv/watch-the-recruit-91507',
+    image: 'https://img.flixhq.click/xxrz/250x400/379/0e/bd/0ebd5fe83f5a5f7055089d3390727e1c/0ebd5fe83f5a5f7055089d3390727e1c.jpg',
     season: 'SS 1',
     latestEpisode: 'EPS 8',
     type: 'TV Series'
@@ -355,8 +355,8 @@ output:
   {
     id: 'tv/watch-wednesday-90553',
     title: 'Wednesday',
-    url: 'https://flixhq.to/tv/watch-wednesday-90553',
-    image: 'https://img.flixhq.to/xxrz/250x400/379/9b/70/9b70e344f895fd9ed9cbac46d95b21a2/9b70e344f895fd9ed9cbac46d95b21a2.jpg',
+    url: 'https://flixhq.click/tv/watch-wednesday-90553',
+    image: 'https://img.flixhq.click/xxrz/250x400/379/9b/70/9b70e344f895fd9ed9cbac46d95b21a2/9b70e344f895fd9ed9cbac46d95b21a2.jpg',
     season: 'SS 1',
     latestEpisode: 'EPS 8',
     type: 'TV Series'
